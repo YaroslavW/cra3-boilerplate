@@ -27,7 +27,7 @@ npm install   /  yarn install
 ```javascript
 npm start  /  yarn start
 ```
-### ###
+### The reasons ###
 Making these changes made me think that after the release of the last version of the application `Create React App 3` I could not start the application.
 
 I got the following error in the console:
